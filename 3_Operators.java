@@ -18,10 +18,7 @@ public class int_calc {
 		System.out.println(233*2);
 		System.out.println(233+2);
 		System.out.println(233%2);
-		
-		
-		
-		
+
 		// PART 2
 		// = += -= *= /= %= ++ --
 		
@@ -40,9 +37,7 @@ public class int_calc {
 		// a *= 5 is same as a = a * 5
 		// a /= 5 is same as a = a / 5
 		// a %= 5 is same as a = a % 5
-		
-		
-		
+
 		// PART3 : switch the value of two variables
 		int a1 = 1;
 		int a2 = 2;

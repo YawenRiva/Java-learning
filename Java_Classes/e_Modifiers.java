@@ -77,11 +77,3 @@ class Myclass {
     myObj.study();
   }
 }
-  
-}
-
-
-
-
-
-
